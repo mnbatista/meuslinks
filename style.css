@@ -39,8 +39,8 @@ body * {
 #container {
   width: 100%;
   max-width: 588px;
-  margin: 10px auto 0px;
-  padding: 4px;
+  margin: 0px auto 0px;
+  padding: 24px;
 }
 
 #profile {
